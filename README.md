@@ -7,7 +7,6 @@ Soy un desarrollador de software apasionado por crear soluciones eficientes y es
 # 📊 GitHub Stats:
 
 
----
-[![](https://visitcount.itsvg.in/api?id=marioposada-hash &icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
