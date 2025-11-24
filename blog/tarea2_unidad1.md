@@ -199,7 +199,7 @@ print("Programa terminado.")
 
 ### Referencias ⚠️
 
-- Conversaciones con claude
+
 - Tutoriales de Youtube
 
-*Última actualización: 21/11/2025*
+*Última actualización: 23/11/2025*
