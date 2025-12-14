@@ -16,7 +16,7 @@ implementado en dos versiones:
 https://github.com/marioposada-hash/mini-turtle-funcional/blob/main/tarea3.ejercicio%201
 
 **Versión Orientada a Objetos (POO)**  
-
+https://github.com/marioposada-hash/Mini-Turtle-Versi-n-POO/blob/main/tarea3.ejercicio%202
 
 
 
