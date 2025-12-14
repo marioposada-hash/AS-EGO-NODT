@@ -7,6 +7,12 @@ Soy un desarrollador de software apasionado por crear soluciones eficientes y es
 
 
 ENTREGA DE TRABAJO 3
+## 🐢 Tarea Mini-Turtle
+
+En esta tarea se desarrolló un mini paquete de Python inspirado en Turtle,
+implementado en dos versiones:
+
+- 🔹 **Versión Funcional (Modularidad)** 
 https://github.com/marioposada-hash/mini-turtle-funcional/blob/main/tarea3.ejercicio%201
 
 
