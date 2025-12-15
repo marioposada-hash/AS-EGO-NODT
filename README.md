@@ -24,6 +24,31 @@ Tipos de Lenguajes
         Ejemplos: Python, C++, C#, Java.
     Bajo Nivel: La información compleja debe representarse literalmente.
         Ejemplos: Assembly y Machine.
+Almacenamiento y Operaciones
+VARIABLES Y CONSTANTES
+
+    Variables: Espacios en memoria que almacenan, de manera temporal, los datos que serán utilizados en el procesamiento.
+    Constantes: Valores invariables durante la ejecución del algoritmo.
+
+TIPOS DE ACCIONES O INSTRUCCIONES DE PROCESAMIENTO
+
+    Instrucciones Lógicas: Operan datos de tipo lógico o booleano (verdadero o falso).
+    Instrucciones Matemáticas: Se aplican sobre datos de tipo numérico para realizar operaciones aritméticas.
+
+OPERADORES
+Tipo de Operador 	Función Principal
+Aritméticos 	Realizan operaciones matemáticas básicas.
+Relacionales 	Comparan valores (>, <, ==) y producen un resultado booleano.
+Lógicos 	Combinan o modifican valores booleanos (AND, OR, NOT).
+💡 Ejemplo de Código
+
+Aquí se muestra un ejemplo sencillo en Python:
+
+nombre = input("Por Favor, Ingresa Tu Nombre: ")
+
+print(f"¡Hola , {nombre}! Bienvenido. ")
+
+print("¡Diste El Primer Paso!)
 
 # 💫 SOBRE MI:
 Soy un desarrollador de software apasionado por crear soluciones eficientes y escalables, con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web y servicios backend. Me gusta trabajar con buenas prácticas, arquitectura limpia y herramientas modernas que facilitan el desarrollo continuo. Disfruto aprender nuevas tecnologías, colaborar en proyectos de código abierto y enfrentar desafíos que impulsen mi crecimiento profesional. Mi objetivo es construir software de calidad que genere impacto real y mejore la experiencia de los usuarios.
