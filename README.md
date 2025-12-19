@@ -65,7 +65,7 @@ ENTREGA DE TRABAJO 3
 https://github.com/marioposada-hash/mini-turtle-funcional/blob/main/HABILITACION.EJERCICIO%201
 
 **Versión Orientada a Objetos (POO)**  
-https://github.com/marioposada-hash/Mini-Turtle-Versi-n-POO/blob/main/tarea3.ejercicio%202
+https://github.com/marioposada-hash/Mini-Turtle-Versi-n-POO/blob/main/HABILITACION.EJERCICIO%202
 
 
 Modularizando el Mini Time Tracker
